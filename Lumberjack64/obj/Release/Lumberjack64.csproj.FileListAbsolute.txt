@@ -1,0 +1,9 @@
+I:\C# Projects\Lumberjack64\Lumberjack64\bin\Release\Lumberjack64.exe
+I:\C# Projects\Lumberjack64\Lumberjack64\bin\Release\Lumberjack64.pdb
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\ResolveAssemblyReference.cache
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\Matthew.Meters.DigitalPPM.resources
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\Lumberjack64.Form1.resources
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\Lumberjack64.Properties.Resources.resources
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\Lumberjack64.csproj.GenerateResource.Cache
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\Lumberjack64.exe
+I:\C# Projects\Lumberjack64\Lumberjack64\obj\Release\Lumberjack64.pdb
